@@ -6,5 +6,5 @@
     "background": {
         "scripts": ["helloworld.js"]
     },
-    "browser_action": {},
+    "browser_action": {}
 }
